@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "노 종열",
-    image: "/avatar.svg", 
+    image: "/avatar.svg",
     role: "프론트엔드",
     bio: "제안하고 질문하는 것을 좋아합니다.",
     email: "gio95481@gmail.com",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "BLOG",
+    title: "Blog",
     description: "개발 블로그",
   },
 
