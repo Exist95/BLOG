@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "종열 노",
+    name: "노 종열",
     image: "/avatar.svg", 
-    role: "프론트엔드 개발자",
+    role: "프론트엔드",
     bio: "제안하고 질문하는 것을 좋아합니다.",
     email: "gio95481@gmail.com",
     linkedin: "",
