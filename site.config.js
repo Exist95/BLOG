@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Noh Jong-yeol",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "like to suggest and ask questions",
+    name: "종열 노",
+    image: "/avatar.svg", 
+    role: "프론트엔드 개발자",
+    bio: "제안하고 질문하는 것을 좋아합니다.",
     email: "gio95481@gmail.com",
     linkedin: "",
     github: "Exist95",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Jong-yeol Blog",
-    description: "welcome to morethan-log!",
+    title: "BLOG",
+    description: "개발 블로그",
   },
 
   // CONFIG configration (required)
