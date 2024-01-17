@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "노 종열",
+    name: "노종열",
     image: "/avatar.svg",
     role: "프론트엔드",
     bio: "제안하고 질문하는 것을 좋아합니다.",
