@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "노종열",
     image: "/avatar.svg",
-    role: "프론트엔드",
+    role: "프론트엔드 개발자",
     bio: "제안하고 질문하는 사람",
     email: "gio95481@gmail.com",
     linkedin: "",
@@ -25,7 +25,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
