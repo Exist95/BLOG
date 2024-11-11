@@ -4,7 +4,7 @@ const CONFIG = {
     name: "노종열",
     image: "/avatar.jpg",
     role: "프론트엔드 개발자",
-    bio: "제안하고 질문하는 사람",
+    bio: "먼저 제안하는 걸 좋아합니다.",
     email: "gio95481@gmail.com",
     linkedin: "",
     github: "Exist95",
