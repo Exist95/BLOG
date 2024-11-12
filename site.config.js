@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "노종열",
-    image: "/avatar.jpg",
+    image: "/avatar3.jpg",
     role: "프론트엔드 개발자",
     bio: "먼저 제안하는 걸 좋아합니다.",
     email: "gio95481@gmail.com",
